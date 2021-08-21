@@ -1,0 +1,98 @@
+.dark-theme body {
+  margin: 0;
+  min-width: 960px;
+  font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+  font-size: 16px;
+  line-height: 32px;
+  color: #f2f2f2;
+  background-color: #080208;
+  background-image: url("img/hero-bg-dark.jpg");
+  background-repeat: no-repeat;
+  background-position: top center;
+}
+
+.dark-theme .page-header a {
+  margin-left: 56px;
+  color: #fea18d;
+  text-decoration: none;
+  background-repeat: no-repeat;
+  background-position: left;
+}
+
+.dark-theme .header-email {
+  padding-left: 30px;
+  background-image: url("img/icon-email-dark.svg");
+}
+
+.dark-theme .header-phone {
+  padding-left: 25px;
+  background-image: url("img/icon-phone-dark.svg");
+}
+
+.dark-theme .hero-image {
+  margin-bottom: 480px;
+}
+
+.dark-theme .heading {
+  margin: 0 0 24px;
+  font-size: 80px;
+  line-height: 96px;
+}
+
+.dark-theme .subheading {
+  margin: 0 0 56px;
+  font-size: 56px;
+  line-height: 80px;
+  text-align: center;
+}
+
+.dark-theme .level {
+  margin: 4px 0 16px;
+  padding: 0;
+  height: 14px;
+  font-size: 0;
+  background-color: #080208;
+  border: 1px solid #712073;
+  border-radius: 8px;
+}
+
+.dark-theme .level div {
+  margin: 1px;
+  height: 12px;
+  background-color: #fea18d;
+  border-radius: 6px;
+}
+
+.dark-theme .button {
+  padding: 6px 20px;
+  display: inline-block;
+  vertical-align: baseline;
+  text-decoration: none;
+  text-transform: uppercase;
+  border-radius: 4px;
+  background-color: #712073;
+  color: #ffffff;
+}
+
+.dark-theme .page-footer {
+  padding: 40px 0;
+  background-color: #260c26;
+}
+
+.dark-theme .page-footer a {
+  margin-left: 56px;
+  color: #fea18d;
+  text-decoration: none;
+  background-repeat: no-repeat;
+  background-position: left;
+}
+
+.dark-theme .footer-email {
+  padding-left: 30px;
+  background-image: url("img/icon-email-dark.svg");
+}
+
+.dark-theme .footer-phone {
+  padding-left: 25px;
+  background-image: url("img/icon-phone-dark.svg");
+}
